@@ -8,7 +8,7 @@ int main() {
     if (num & 1) {
         printf("%d LSB is set 1.\n", num);
     } else {
-        printf("%d is not set 1.\n", num);
+        printf("%d LSB is not set 1.\n", num);
     }
 
     return 0;
